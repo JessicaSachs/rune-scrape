@@ -3,12 +3,12 @@ lockfileVersion: 5.3
 specifiers:
   cypress: https://cdn.cypress.io/beta/npm/10.0.0/darwin-x64/10.0-release-404447e397190ebb0f8ce0bb270ea9a806ca78c6/cypress.tgz
   node-fetch: ^3.2.0
-  typescript: ^4.5.5
+  typescript: 4.5.4
 
 devDependencies:
   cypress: '@cdn.cypress.io/beta/npm/10.0.0/darwin-x64/10.0-release-404447e397190ebb0f8ce0bb270ea9a806ca78c6/cypress.tgz'
   node-fetch: 3.2.0
-  typescript: 4.5.5
+  typescript: 4.5.4
 
 packages:
 
@@ -991,8 +991,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /typescript/4.5.5:
-    resolution: {integrity: sha512-TCTIul70LyWe6IJWT8QSYeA54WQe8EjQFU4wY52Fasj5UKx88LNYKCgBEHcOMOrFF1rKGbD8v/xcNWVUq9SymA==}
+  /typescript/4.5.4:
+    resolution: {integrity: sha512-VgYs2A2QIRuGphtzFV7aQJduJ2gyfTljngLzjpfW9FoYZF6xuw1W0vW9ghCKLfcWrCFxK81CSGRAvS1pn4fIUg==}
     engines: {node: '>=4.2.0'}
     hasBin: true
     dev: true
